@@ -1,19 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Brian Campbell's personal portfolio website
 
-You can use the [editor on GitHub](https://github.com/bsoupp/briancampbell.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Digital Art
+here will be photos of portfolio work that has been made digitally
+![Image](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Physical Art
+here will be photos of portfolio work that has been made physically
+![Image](src)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+//# Header 1
+//## Header 2
+//### Header 3
 
 - Bulleted
 - List
